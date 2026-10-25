@@ -1,0 +1,21 @@
+Training on 6000 images...
+Epoch: 1 Loss: 0.1386
+Epoch: 2 Loss: 0.1058
+Epoch: 3 Loss: 0.0391
+Epoch: 4 Loss: 0.0133
+Epoch: 5 Loss: 0.0103
+Epoch: 6 Loss: 0.0092
+Epoch: 7 Loss: 0.0086
+Epoch: 8 Loss: 0.0083
+Epoch: 9 Loss: 0.008
+Epoch: 10 Loss: 0.0079
+
+Testing on 1000 unseen images:
+Noisy image MSE: 0.0674
+Denoised image MSE: 0.0079
+Test noise: Gaussian noise plus scattered black/white pixels.
+Enter NOISY digit image path (PNG/JPG): exp5_autoencoder/test_noisy_3.png
+Digit colour (1 = dark on light, 2 = light on dark): 1
+Saved denoised_digit.png and denoising.png
+No extra noise was added to your image.
+Your image has no clean reference, so its reconstruction error is unknown.

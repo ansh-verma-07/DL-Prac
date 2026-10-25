@@ -1,0 +1,8 @@
+.venv/
+.test_packages/
+__pycache__/
+*.pyc
+*.pt
+data/MNIST/
+*.zip
+GITHUB_UPLOAD/

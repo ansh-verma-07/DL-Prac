@@ -1,0 +1,14 @@
+Training on 6000 images...
+Epoch: 1 Loss: 1.0698
+Epoch: 2 Loss: 0.3143
+Epoch: 3 Loss: 0.2102
+Epoch: 4 Loss: 0.1596
+Epoch: 5 Loss: 0.1295
+
+Testing on 1000 unseen images...
+Test accuracy: 95.9 %
+Correct predictions: 959 out of 1000
+Enter digit image path (PNG/JPG): exp2b_classification/sample_digit.png
+Digit colour (1 = dark on light, 2 = light on dark): 2
+Predicted digit: 7
+Saved prepared_input.png and predictions.png
