@@ -1,0 +1,16 @@
+Training the XOR model...
+Epoch: 2000 Loss: 0.0147
+Epoch: 4000 Loss: 0.004
+Epoch: 6000 Loss: 0.0022
+Epoch: 8000 Loss: 0.0015
+Epoch: 10000 Loss: 0.0011
+
+Checking all four XOR inputs:
+[0 0] -> 0 (probability=0.001)
+[0 1] -> 1 (probability=0.999)
+[1 0] -> 1 (probability=0.999)
+[1 1] -> 0 (probability=0.002)
+Accuracy: 100.0 %
+Enter first bit (0 or 1): 0
+Enter second bit (0 or 1): 1
+Predicted XOR: 1

@@ -1,0 +1,16 @@
+Training rows: 436 | Testing rows: 109
+Epoch: 100 Loss: 2.4004
+Epoch: 200 Loss: 1.9188
+Epoch: 300 Loss: 1.6686
+Epoch: 400 Loss: 1.6031
+Epoch: 500 Loss: 1.5746
+
+Testing results:
+Test average error: 919689
+Test R2 score: 0.5565
+First actual price: 9870000
+First predicted price: 5924597
+Model saved as house_model.pt
+Saved model loaded for prediction.
+Dataset area range: 1650 to 16200. Outside this range is extrapolation.
+Enter area: Enter bedrooms: Enter bathrooms: Predicted price: 6016436
